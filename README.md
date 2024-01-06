@@ -1,5 +1,5 @@
 # 💼 Responsive Personal Portfolio Website
-## TO EXPLORE THE WEBSITE : <https://abdelrahman-samy-2023.github.io Responsive_Portfolio_Website_Abdelrahman/>
+## TO EXPLORE THE WEBSITE : <https://abdelrahman-samy-2023.github.io/>
 
 ### 💼 Responsive Personal Portfolio Website
 
